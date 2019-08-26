@@ -1,4 +1,4 @@
-# Mathmatic_Modeling_CUMCM
+# Mathmatic Modeling CUMCM
 Mathmatic Modeling Problems and Solutions for CUMCM (China Undergraduate Mathematical Contest in Modeling).
 
 This repositories is the collection of the Homework(Project) in the training for CUMCM.
