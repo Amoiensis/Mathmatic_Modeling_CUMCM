@@ -9,7 +9,7 @@ Email:yxp189@protonmail.com
 
 Data:2019.08.26
 
-OVERVIEW：
+OVERVIEW
 ---------------------------------------
 
 本项目是参加中国大学生数学建模竞赛培训大作业的集合。
@@ -24,7 +24,7 @@ This repositories is the collection of the Homework(Project) in the training for
 
 The repositories will update constantly.
 
-ATTENTION:
+ATTENTION
 ---------------------------------------
 
 Please feel free to contact with me for any questions, thank you!
