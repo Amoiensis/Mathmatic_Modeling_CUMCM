@@ -5,7 +5,7 @@ Mathmatic Modeling CUMCM
 
 Author:YXP
 
-Email:yxp189@protonmail.com
+Email: Amoensis@outlook.com
 
 Data:2019.09.08
 ***************************************************************
