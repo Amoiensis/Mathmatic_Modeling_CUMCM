@@ -1,0 +1,25 @@
+2015_Mathmatic_Modling_Problem-B
+----------------------------------------
+Author:YXP
+Email:yxp189@foxmail.com
+Data:2019.09.01
+----------------------------------------
+This FILE is for Mathmatic_Modling_Homework in XMU.
+
+CONTENT
+
+1. readdata_fromcsv.m	导出的数据在data.m里面
+2. shijian.m		用于计算空驶率
+3. quhua.m		用于计算各区出租车的数量
+4. huigui.m		用于建立一个回归模型；测试中；
+
+(For more details, please read the File!)
+----------------------------------------
+Please feel free to contact with us for any questions, thank you!
+
+Don't spread the files without permission!
+
+所有文件仅仅供学习交流！
+
+未经允许，请勿传播！
+----------------------------------------
