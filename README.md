@@ -3,7 +3,7 @@ Mathmatic Modeling CUMCM
 中国大学生数学建模竞赛（高教杯）
 ---------------------------------------
 
-Author:YXP
+Author:Xiping.Yu
 
 Email: Amoensis@outlook.com
 
